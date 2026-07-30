@@ -1,0 +1,6 @@
+{
+  "name": "Friends",
+  "description": "Real-time multiplayer trivia game for 2-6 players in Telegram",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
